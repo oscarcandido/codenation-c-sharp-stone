@@ -1,0 +1,15 @@
+C:\Users\Oscar\codenation\csharp-0\Teste\bin\Debug\netcoreapp3.1\Teste.exe
+C:\Users\Oscar\codenation\csharp-0\Teste\bin\Debug\netcoreapp3.1\Teste.deps.json
+C:\Users\Oscar\codenation\csharp-0\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.json
+C:\Users\Oscar\codenation\csharp-0\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.dev.json
+C:\Users\Oscar\codenation\csharp-0\Teste\bin\Debug\netcoreapp3.1\Teste.dll
+C:\Users\Oscar\codenation\csharp-0\Teste\bin\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\Oscar\codenation\csharp-0\Teste\bin\Debug\netcoreapp3.1\Source.dll
+C:\Users\Oscar\codenation\csharp-0\Teste\bin\Debug\netcoreapp3.1\Source.pdb
+C:\Users\Oscar\codenation\csharp-0\Teste\obj\Debug\netcoreapp3.1\Teste.csprojAssemblyReference.cache
+C:\Users\Oscar\codenation\csharp-0\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfoInputs.cache
+C:\Users\Oscar\codenation\csharp-0\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfo.cs
+C:\Users\Oscar\codenation\csharp-0\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CopyComplete
+C:\Users\Oscar\codenation\csharp-0\Teste\obj\Debug\netcoreapp3.1\Teste.dll
+C:\Users\Oscar\codenation\csharp-0\Teste\obj\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\Oscar\codenation\csharp-0\Teste\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache
