@@ -4,14 +4,13 @@ namespace Codenation.Challenge
 {
     public class CesarCypher : ICrypt, IDecrypt
     {
-        private string Alphabet = "abcdefghijklmnopqrstuvwxyz";
-        private string Numbers = "0123456789";
+        private readonly string Alphabet = "abcdefghijklmnopqrstuvwxyz";
+        private readonly string Numbers = "0123456789";
 
         private char EncryptChar(char _char)
         {
             int numero_casas = 3;
-            _char = char.ToLower(_char);
-            int index = 0;
+            int index;
             if (Alphabet.Contains(_char.ToString()))
             {
                 int position = Alphabet.IndexOf(_char) + 1;
@@ -35,8 +34,7 @@ namespace Codenation.Challenge
         private char DecryptChar(char _char )
         {
             int numero_casas = 3;
-            _char = char.ToLower(_char);
-            int index = 0;
+            int index;
             if (Alphabet.Contains(_char.ToString()))
             {
                 int position = Alphabet.IndexOf(_char) + 1;
@@ -77,14 +75,14 @@ namespace Codenation.Challenge
                     }
                     else
                     {
-                        throw new ArgumentOutOfRangeException("Caracter inválido");
+                        throw new ArgumentOutOfRangeException();
                     }
                 }
                 return Result;
             }
             else
             {
-                throw new ArgumentNullException("Mensagem nula");
+                throw new ArgumentNullException();
             }
         }
 
@@ -108,7 +106,7 @@ namespace Codenation.Challenge
                     }
                     else
                     {
-                        throw new ArgumentOutOfRangeException("Caracter inválido");
+                        throw new ArgumentOutOfRangeException();
                     }
                 }
                 return Result;
